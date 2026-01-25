@@ -1,4 +1,4 @@
-# Soyan Mahat's Portfolio - Web Development Projects
+# Nischal Magar's Portfolio - Web Development Projects
 
 A comprehensive portfolio showcasing three interconnected web development projects, ready to be hosted on GitHub Pages.
 
